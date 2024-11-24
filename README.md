@@ -15,15 +15,13 @@ Hi there! I'm Omar, a web developer-in-the-making who loves diving into the worl
 
 ---
 
-## 🎯 Goals  
-- Master full-stack web development and explore backend technologies.  
-- Write clean, elegant code while improving logical problem-solving.  
-
----
-
 ## 🖥️ Tech Stack  
 - **Languages**: Python, JavaScript, HTML, CSS  
 - **Tools**: Git, GitHub, Linux (the power of open-source is life-changing!)  
 - **Learning**: Responsive design, DOM manipulation, and modern frameworks  
 
 ---
+
+## 🎯 Goals  
+- Master full-stack web development and explore backend technologies.  
+- Write clean, elegant code while improving logical problem-solving.  

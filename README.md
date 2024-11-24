@@ -6,7 +6,7 @@ Hi there! I'm Omar, a web developer-in-the-making who loves diving into the worl
 ---
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning**: HTML, CSS, JavaScript, and Python  
+- 🌱 **Currently Learning**: JavaScript, TypeScript and React  
 - 🎓 **Progressing through** [CS50X](https://cs50.harvard.edu/x) and completed [CS50P](https://cs50.harvard.edu/python)  
 - 🛠 **Working On**:  
   - **Github Contibution Graph "Heater"** A python script that generates a rich github contibution heatmap for your profile  

@@ -10,7 +10,7 @@ Hi there! I'm Omar, a web developer-in-the-making who loves diving into the worl
 - 🎓 **Progressing through** [CS50X](https://cs50.harvard.edu/x) and completed [CS50P](https://cs50.harvard.edu/python)  
 - 🛠 **Working On**:  
   - **Github Contibution Graph "Heater"** A python script that generates a rich github contibution heatmap for your profile  
-  - **Job Application Tracker** Got tired of using Excel, so I am building a web app to help you track and manage Job Applications  
+  - **Job Application Tracker** Got tired of using Excel, so I am building a web app to help you (and me!) track and manage Job Applications  
 - 💡 Open to collaborating on fun and impactful projects  
 
 ---
